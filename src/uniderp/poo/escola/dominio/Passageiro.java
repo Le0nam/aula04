@@ -24,6 +24,6 @@ public class Passageiro extends BasePessoa{
         this.numeroCartao = numeroCartao;
         this.documento = documento;
     }
-    
+     
     
 }
